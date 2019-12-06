@@ -20,7 +20,7 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 
 ### Naprawiono
 
-- Fix Markdown links to tag comparison URL with footnote-style links. [17](https://trello.com/c/IHlHFONs)
+- Fix Markdown links to tag comparison URL with footnote-style links. [[17](https://trello.com/c/IHlHFONs)]
 
 ## [1.0.0] - 2020-01-31
 
