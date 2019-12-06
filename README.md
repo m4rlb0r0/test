@@ -12,15 +12,15 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 
 ### Dodano
 
-- Link, and make it obvious that date format is ISO 8601.
+- Link, and make it obvious that date format is ISO 8601. [87](https://trello.com/c/IHlHFONs)
 
 ### Zmieniono
-
-- Clarified the section on "Is there a standard change log format?".
+ 
+- Clarified the section on "Is there a standard change log format?". [97](https://trello.com/c/IHlHFONs)
 
 ### Naprawiono
 
-- Fix Markdown links to tag comparison URL with footnote-style links.
+- Fix Markdown links to tag comparison URL with footnote-style links. [17](https://trello.com/c/IHlHFONs)
 
 ## [1.0.0] - 2020-01-31
 
