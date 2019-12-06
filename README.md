@@ -12,11 +12,11 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 
 ### Dodano
 
-- Link, and make it obvious that date format is ISO 8601. [87](https://trello.com/c/IHlHFONs)
+- Link, and make it obvious that date format is ISO 8601. [[87](https://trello.com/c/IHlHFONs)]
 
 ### Zmieniono
  
-- Clarified the section on "Is there a standard change log format?". [97](https://trello.com/c/IHlHFONs)
+- Clarified the section on "Is there a standard change log format?". [[97](https://trello.com/c/IHlHFONs)]
 
 ### Naprawiono
 
