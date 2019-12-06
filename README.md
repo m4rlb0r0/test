@@ -10,7 +10,7 @@ and this project adheres to [Wersjonowanie Semantyczne](https://semver.org/spec/
 
 ## [1.0.1] - 2019-02-02
 
-### Dodano
+### Dodano 
 
 - Link, and make it obvious that date format is ISO 8601.
 
