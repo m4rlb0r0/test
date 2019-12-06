@@ -1,16 +1,16 @@
 
 # Changelog
 
-All notable changes to this project will be documented in this file.
+Wszystkie znaczące zmiany w tym projekcie zostaną udokumentowane w tym pliku.
 
-The format is based on [Prowadź Changelog](https://keepachangelog.com/pl/1.0.0/),
-and this project adheres to [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0.html).
+Format oparty jest na [Prowadź Changelog](https://keepachangelog.com/pl/1.0.0/),
+projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
 ## [1.0.1] - 2019-02-02
 
-### Dodano 
+### Dodano
 
 - Link, and make it obvious that date format is ISO 8601.
 
