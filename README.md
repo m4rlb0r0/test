@@ -6,7 +6,7 @@ Wszystkie znaczące zmiany w tym projekcie zostaną udokumentowane w tym pliku.
 Format oparty jest na [Prowadź Changelog](https://keepachangelog.com/pl/1.0.0/).
 Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2020-01-22
+## [1.0.0] - 22-01-2020
 
 ### Dodano
 
