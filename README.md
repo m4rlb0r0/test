@@ -9,20 +9,20 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 
 ### Dodano
 
-- Wprowadzenie kolorowych teł w panelach administracyjnych dla rozóżnienia środowisk i kontektów sklepów
-- Wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska
-- Dodanie informacji o zapisywaniu danych na stronie rejestracji [#[687](https://trello.com/c/Mt1NwVNv)]
-- Dodanie informacji o zapisywaniu danych na ścieżce zakupowej oraz przy zapisywaniu zamówienia [#[687](https://trello.com/c/Mt1NwVNv)]
+- Wprowadzenie kolorowych teł w panelach administracyjnych dla rozóżnienia środowisk i kontektów sklepów // BH
+- Wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska // BH
+- Dodanie informacji o zapisywaniu danych na stronie rejestracji // SOHO [#[687](https://trello.com/c/Mt1NwVNv)]
+- Dodanie informacji o zapisywaniu danych na ścieżce zakupowej oraz przy zapisywaniu zamówienia // SOHO [#[687](https://trello.com/c/Mt1NwVNv)]
 
 ### Usunięto
 
-- Usunięcie przekierowania do wariantu domyślnego na karcie produktu po dodaniu produktów do koszyka [#[241](https://trello.com/c/LEBhqn1H)]
+- Usunięcie przekierowania do wariantu domyślnego na karcie produktu po dodaniu produktów do koszyka // SOHO [#[241](https://trello.com/c/LEBhqn1H)]
 
 ## [1.0.1] - 23-01-2020
 
 ### Zmieniono
 
-- Poprawka pozycjonowania pływających banerów
+- Poprawka pozycjonowania pływających banerów // BH
 
 ## [1.0.0] - 23-01-2020
 
