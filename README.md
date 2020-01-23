@@ -10,7 +10,7 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 ### Dodano
 
 - Wprowadzenie kolorowych teł w panelach administracyjnych dla rozóżnienia środowisk i kontektów sklepów
-- wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska
+- Wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska
 - Dodanie informacji o zapisywaniu danych na stronie rejestracji [#[687](https://trello.com/c/Mt1NwVNv)]
 - Dodanie informacji o zapisywaniu danych na ścieżce zakupowej oraz przy zapisywaniu zamówienia [#[687](https://trello.com/c/Mt1NwVNv)]
 
