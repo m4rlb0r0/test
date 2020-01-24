@@ -10,7 +10,7 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 ### Dodano
 
 - Wprowadzenie kolorowych teł w panelach administracyjnych dla rozóżnienia środowisk i kontektów sklepów. [BH]
-- Wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska. [BH]
+- Wprowadzenie oznaczeń na froncie w celu bezproblemowej identyfikacji bieżącego środowiska - moduł BH DevSign. [BH]
 - Dodanie informacji o zapisywaniu danych na stronie rejestracji. [SOHO#[687](https://trello.com/c/Mt1NwVNv)]
 - Dodanie informacji o zapisywaniu danych na ścieżce zakupowej oraz przy zapisywaniu zamówienia. [SOHO#[687](https://trello.com/c/Mt1NwVNv)]
 
