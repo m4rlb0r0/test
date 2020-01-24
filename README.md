@@ -14,6 +14,10 @@ Projekt jest zgodny z [Wersjonowanie Semantyczne](https://semver.org/spec/v2.0.0
 - Dodanie informacji o zapisywaniu danych na stronie rejestracji. [SOHO#[687](https://trello.com/c/Mt1NwVNv)]
 - Dodanie informacji o zapisywaniu danych na ścieżce zakupowej oraz przy zapisywaniu zamówienia. [SOHO#[687](https://trello.com/c/Mt1NwVNv)]
 
+### Zmieniono
+
+- Poprawka do działania ponawiania zamówień w ramach drugiej grupy sklepów [SOHO#[857](https://trello.com/c/Ws7p1FPN)]
+
 ### Usunięto
 
 - Usunięcie przekierowania do wariantu domyślnego na karcie produktu po dodaniu produktów do koszyka. [SOHO#[241](https://trello.com/c/LEBhqn1H)]
